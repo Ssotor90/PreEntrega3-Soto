@@ -97,13 +97,14 @@ footer p {
   text-align: justify;
 }
 
-.general a {
+.botonEstilo {
   color: #333;
   text-decoration: none;
+  transition: 0.3s;
 }
-
-.general a:hover {
+.botonEstilo:hover {
   color: #44cf6c;
+  transform: scale(1.2);
 }
 
 h1 {
